@@ -243,6 +243,16 @@ body {
 .texto-boxer {
   background-color: color(display-p3 0.1 0.02 0);
 }
+
+.texto-dogo {
+  background-color: color(display-p3 0.1 0.02 0);
+}
+.texto-bull {
+  background-color: color(display-p3 0.1 0.02 0);
+}
+.texto-dogue {
+  background-color: color(display-p3 0.1 0.02 0);
+}
 /* daqui muda a responsividade */
 
 .js .js-tabcontent section {
